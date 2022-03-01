@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The irregular and disorderly state of the plantation-trade discuss'd and humbly offered to the consideration of the right honourable the Lords and Commons in Parliament assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03766</idno>
+            <idno type="STC">Wing I1049A</idno>
+            <idno type="STC">ESTC R178947</idno>
+            <idno type="EEBO-CITATION">51617822</idno>
+            <idno type="OCLC">ocm 51617822</idno>
+            <idno type="VID">175267</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175267)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2725:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The irregular and disorderly state of the plantation-trade discuss'd and humbly offered to the consideration of the right honourable the Lords and Commons in Parliament assembled.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of printing from Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sugar trade --  Great Britain --  Early works to 1800.</term>
+               <term>Sugar --  Manufacture and refining --  West Indies, British --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Barbados --  Early works to 1800.</term>
+               <term>Barbados --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>Plantations --  Barbados --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175267:1" rendition="simple:additions"/>
+            <head>THE <hi>Irregular and Diſorderly State</hi> OF THE Plantation-TRADE Diſcuſs'd, and Humbly Offered to the Conſideration of the Right Honourable the LORDS and COMMONS in Parliament Aſſembled.</head>
+            <p>THAT the preſent Parliament Aſſembled together with Reſolutions to Promote Trade, was the Apprehenſions of moſt, and the frequent Conſiderations about it, by the Lords and Commons, ſince this Seſſion began, confirms the Truth of it; and whilſt they are taking Care of ſome particular Branches of the Trade of the Kingdom, I humbly take leave to Recommend another Branch of its Trade not yet con<g ref="char:EOLhyphen"/>ſidered of, and which, when well weighed, and enquired into, may poſſibly be found to deſerve the Regards of a Parliament as much as the <hi>East-India,</hi> or any one other Branch whatſoever; and that is, <hi>The Trade to the Plantations.</hi>
+            </p>
+            <p>To have this Trade ſetled on a Regular and Sound Foundation, I humbly conceive con<g ref="char:EOLhyphen"/>cerns <hi>England</hi> very much, in regard Colonies Abroad are Planted, Maintained and Protect<g ref="char:EOLhyphen"/>ed at a very great Expence of Treaſure; and a Specimen of that may, I preſume, be ſeen by the Accounts of the preſent Charge of the War, now lying before the Honourable the Houſe of Commons, and which doubtleſs muſt ſwell very high: But that which Affects the King<g ref="char:EOLhyphen"/>dom as its greateſt Treaſure, and of which there is no Accompt kept of its Disburſments, is the Expence of our People, a Treaſure which can no way be compenſated, nor ſatisfied for, but by ſuch a way as may conduce to ſupply the Kingdom with People for our People; for elſe, were our Plantations ſo many Mines of Gold and Silver, yet ſhould we be weakned and impoveriſhed by the having them.</p>
+            <p>
+               <hi>Spain</hi> is a lively Inſtance and Proof of this, who from the greateſt Monarchy in <hi>Europe,</hi> is declined to what it now is, and who have commenced their Declenſion gradually from the time they Diſpeopled <hi>Spain</hi> to Plant in the <hi>Weſt-Indies;</hi> all the Treaſure of the <hi>Indies</hi> which they have in their power, and fetch yearly to <hi>Spain,</hi> not being able to Recompence the Loſs of their People; and this inſtance may ſerve to confirm the Truth of a Poſition that is alrea<g ref="char:EOLhyphen"/>dy agreed on by all, as far as I know at leaſt, as unobjectionable.</p>
+            <p>
+               <hi>That all Kingdoms or Governments are Strong or Weak, Rich or Poor, according to the Plenty or Paucity of the People of that Government.</hi>
+            </p>
+            <p>And that <hi>England</hi> may not ſplit upon the ſame Rock <hi>Spain</hi> hath done, ſhould be not only every <hi>Engliſh</hi> Man's good Wiſh, but ought to be as much their Indeavours; and I can hear<g ref="char:EOLhyphen"/>tily ſay, it is the only Motive that draws me to caſt in my poor Mite as an Eſſay towards it, and as a Neceſſary Conſequence of the before-going Poſition.</p>
+            <p>All ſuch Means as tend to draw our Hands from us, and which at the ſame time creates not Means by which we may be ſupplied with as many, or more Hands, in the room of them, are pernicious, and as they ſhall obtain, may in the Iſſue be Deſtructive.</p>
+            <p>
+               <hi>Manufacture in the Plantations, is that very Means by which the Kingdom is drained of its Peo<g ref="char:EOLhyphen"/>ple, and is ſo far from giving us the Means by which it may be repleniſhed with People in the room of them, that it deprives us of that only Means that's left us for it.</hi>
+            </p>
+            <p>
+               <hi>Manufacture promoted in the Kingdom, is the only Means by which the Kingdom may be reple<g ref="char:EOLhyphen"/>niſhd with People in the room of thoſe ſent to the Plantations; for as the Prey to the Eagles, Ma<g ref="char:EOLhyphen"/>nufacture is to the People; where that is, there they will be gathered together.</hi>
+            </p>
+            <p>On theſe Two Heads I beg leave Humbly to ſuggeſt ſome few Conſiderations, to ſhew the Prejudices and the Diſorder, Manufacture of Sugar in a part of <hi>Barbadoes,</hi> doth occaſion at preſent, to the Eſſential Intereſts of the Kingdom, and the further Miſchiefs it will bring, as it ſhall obtain and increaſe.</p>
+            <p>And then to ſhew the Benefits and Advantages that would accrue to the Kingdom, by Diſcouraging or Suppreſſing it, and by injoining all Commodities that are the Growth of the Plantations to be Imported in their firſt Product.</p>
+            <p>Manufactury in the Plantations, (even as Manufacture) doth need, and draws more Peo<g ref="char:EOLhyphen"/>ple than is neceſſary for Product, and is a Motive to our People to leave the Kingdom, and indeed puts a Neceſſity upon them ſo to do, for it thereby deprives us of Manufacture at Home, by which they are Imployed.</p>
+            <p>Manufactures of Sugar in <hi>Barbadoes,</hi> altho' but to the degree it hath already attained, is ſuch an Error in the Foundation of the Intereſts of the Kingdom, as reſpecting the Plantati<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:175267:2"/>Trade, that no Structure of Good, or Benefit to the Kingdom, can be Built upon it, and is the Cauſe that the Navigation is very much leſſened Homeward; and by deſpoiling us of Manufacturing in the Kingdom, prevents a Navigation and Trade Outward, of Sugar Ma<g ref="char:EOLhyphen"/>nufactured wholly and intirely, and which once we had to a very great degree, and is the chief Cauſe that the Manufactory and Navigation (which are the only Fruits propoſed, as the Returns and Repayment of all Charges upon the Plantations) is conveyed to the <hi>Dutch</hi> and <hi>Hamburghers</hi> without any Charge to them; without Charge did I ſay? Nay, they are well paid for it; as for inſtance, There was Exported from the Port of <hi>London</hi> only, from <hi>Midſummer</hi> 1687, to <hi>Midſummer</hi> 1688, as the <hi>Cuſtom-houſe</hi> Books will ſhew, Six Thouſand Four Hundred Seventy Four Tuns of Sugar, which was Navigated in their own Ships, as they uſually do; and they drew back out of the King's Revenue 19448 <abbr>
+                  <hi>l.</hi>
+               </abbr> 19 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> and I queſtion whether the whole Duty on Sugar for this laſt Year amounts to ſo much; and ſtood them in ſo much Cheaper than the <hi>Engliſh</hi> Manufacturer could Buy them in our own Mar<g ref="char:EOLhyphen"/>kets. And by the Advantages of Navigation, Manufacture and Trade to moſt parts of <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> of this After-Manufactured, may be gueſſed the Loſs the Kingdom hath through the want of it.</p>
+            <p>Manufacture of Sugar in <hi>Barbadoes,</hi> is not more Injurious to the Manufacture and Navigati<g ref="char:EOLhyphen"/>on at Home, then it's Miſchievous to that part of <hi>Barbadoes,</hi> and all the reſt of the Iſlands who do not Manufacture their Sugar; for as they are Obliged, as indeed they ought, to bring their Sugars into the Kingdom, they find their Diſappointment of a Market here, by reaſon of the Diſcouragement their Buyers lye under from the <hi>Barbadoes</hi> Manufacture, for they muſt have more or leſs Money for their Sugars, according as the number of their Buyers are, many or few. And to give one inſtance of this alſo, the Refiners in the Year 1690, through a Surprize of a quantity of <hi>Barbadoes</hi> Manufactured Clayed (not Refined) Sugar and Mo<g ref="char:EOLhyphen"/>loſſes, brought in one Fleet from <hi>Barbadoes,</hi> Loſt not leſs than Twenty Thouſand Pounds in about Thirty Sugar-houſes in and about <hi>London;</hi> and I am apt to think it could not be leſs than Fifty Thouſand Pounds to the Importers of Unmanufactured Sugar; for the Refiners ceaſed working for near Twelve Months after, and the Importer all that while depended al<g ref="char:EOLhyphen"/>moſt wholly on the Courteſie of Forreigners for a Price for their Sugars.</p>
+            <p>If Manufactory of Sugar in <hi>Barbadoes</hi> be permitted, then will it be not only a Motive, but a ſtrong Invitation to the reſt of That, and all the other Iſlands, to do the like.</p>
+            <p>And the Indulgency of Manufacturing of Sugar, will induce and perſwade to a Manufa<g ref="char:EOLhyphen"/>ctory of Cotton-wooll, which Now is a Manufactory that Imploys poſſibly ſome Hundreds of Families in the Kingdom,; and this is begun already in Fact, in ſome meaſure.</p>
+            <p>And as an Attendant on that, will follow the Manufactory of Dying alſo, that is another great Manufactory in the Kingdom; for the Wooll and Materials for Dying, ſuch as <hi>Indigo, Logwood, Fuſtick, Nicarague-Wood,</hi> are all the Growth of the Plantations, and places adja<g ref="char:EOLhyphen"/>cent thereto; and the Dying-Woods being Imported at preſent in great quantities, as well as Sugar, Imploy a great number of Ships yearly.</p>
+            <p>I ſhall not ſtrain the Point, if I add, there is danger of Loſing the Navigation almoſt intire<g ref="char:EOLhyphen"/>ly, for there is not the leaſt degree of any Manufacture that is uſed upon the Plantations, but to a proportionable degree to what it doth obtain, the Navigation is diminiſhed; and if all their Products be Manufactured there, then <hi>New-England,</hi> who now do in a great mea<g ref="char:EOLhyphen"/>ſure ſhare with us in the Navigation already, may poſſibly Ingroſs the whole in time; they Building Ships, and Trading not only with the Plantations, but directly for <hi>Spain;</hi> with Fiſh, <hi>&amp;c.</hi> at preſent, it cannot be doubted, that they do, or will deny themſelves of carry<g ref="char:EOLhyphen"/>ing any Plantation Goods there, or elſewhere, where it ſtands with their Intereſt ſo to do. It's far from me to grudge the Advantages of any, eſpecially <hi>Engliſh</hi> Men, in what part of the World ſoever they be; but that <hi>Old England</hi> ſhall be made to depend upon the <hi>New,</hi> or any of its Colonies or Plantations, or that they ſhould be Inriched, to the Exhauſting the King<g ref="char:EOLhyphen"/>dom of its People, which are its Riches and Strength; or Navigation, which are its Walls and Defence; or that the Leſſer ſhould be preferred to the prejudice of the Greater, cannot be the Deſire of any Honeſt Man.</p>
+            <p>Objection, <hi>But why is the Loſs of this Manufactory laid at the Door of the</hi> Barbadoes <hi>Manu<g ref="char:EOLhyphen"/>facturers, when as the Refiners had ſome Exportation Trade, before the late Impoſt Duty was laid, and which gave the Forreigner</hi> 2 <abbr>s.</abbr> 4 <abbr>d.</abbr> 
+               <hi>Draw-back? And ſince that it was, that the Exportation Trade was loſt, and therefore that muſt be the true Cauſe.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> It's true, that this was an accidental Cauſe, and yet the <hi>Barbadoes</hi> Manufactu<g ref="char:EOLhyphen"/>ry, the Main and Original Cauſe, for that (as Worms or Vermin that deſtroys the Roots of a Tree, makes it liable to be blown down by every blaſt of Wind) weakens this Intereſt of Manufacture at home, ſo as every Forreigner may wreſt it from us; but had there been no other Cauſe than this <hi>Draw-back,</hi> then might the Exportation Trade have been Retrieved, ſince this Cauſe is removed; but it is evident it is not ſo, nor never like, whilſt the Original
+<pb facs="tcp:175267:2"/>Cauſe remains; and which is the Cauſe that there are not above Fifty Sugar-Houſes in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> although we have Six Iſlands that are Sugar-Plantations; and <hi>Holland</hi> hath about One Hundred Sugar-Houſes, and Three of them, as big as Twenty of the biggeſt we have, and Imploy Seventy Thouſand Pounds Stock each, and yet hath but one Plantation of its own; and <hi>Hamborough</hi> hath about Fourſcore Sugar-Houſes, and not one Planta<g ref="char:EOLhyphen"/>tion of its own, and both depend upon <hi>England</hi> and <hi>Portugal</hi> for their Supplies: And yet Sugar which is the Growth of our own Plantations, is as much in our Power as Wooll is, which is the Growth of the Kingdom; and I doubt not but in time, it will be thought to de<g ref="char:EOLhyphen"/>ſerve as much our Care to preſerve for Manufacture; and the rather, becauſe Navigation will be more promoted by this, than that of Wooll.</p>
+            <p>I humbly hopes, that enough hath been ſaid to ſhew that the Plantation-Trade in the State it now is in, is Irregular and Diſorderly, and that the Charge of it is <hi>Englands,</hi> and the Fruits thereof is Reap'd betwixt the <hi>Hollander</hi> and <hi>Hamburgher</hi> on the one Hand, and the <hi>Barbadoes</hi> Manufacturer on the other; and the Kingdom, and all the reſt of the Plantations, are the Sufferers. The next thing to be conſidered of, is,</p>
+            <p>How the Plantation-Trade may be ſettled on ſuch a Regular Foundation, as that it may be reciprocally Advantageous to the Kingdom, and all the Plantations in general; and I humbly conceive the Methods to be uſed for it are very eaſie, provided the Gentlemen concer<g ref="char:EOLhyphen"/>ned in the Intereſt I have been ſpeaking againſt, would be content to come into the general Intereſts of the Kingdom, and ſet up Sugar-Houſes in the Kingdom, inſtead of thoſe in <hi>Bar<g ref="char:EOLhyphen"/>badoes;</hi> let them enjoy the Houſes ſet up there, as Planters; and thoſe ſet up here, as Refiners or Manufacturers; and why not? They will then ſtand upon an Equal foot with the reſt of the Plantations there, and with the Manufacturers here, and ſo make up one Fami<g ref="char:EOLhyphen"/>ly as it were, one United Intereſt; they will then be provided for equally with all the King's Subjects; and for theſe Gentlemen to expect to be priviledged above all, I preſume will be thought to be too much; and to be priviledged to go on with an Intereſt that ſtands in Op<g ref="char:EOLhyphen"/>poſition to, and poiſons all the Intereſts of the Kingdom in its Manufacture, Navigation and Plantations, is unreaſonable to deſire, even to a Crime.</p>
+            <p>I wonder not, that there are ſo few Sugar-Houſes in the Kingdom, but rather that there ſhould be any, under the Difficulties they have always ſtruggled with; and were they not a Frugal Induſtrious People, they could not continue a Being in the Kingdom, although Re<g ref="char:EOLhyphen"/>fining of Sugar hath been here before ever we had Plantations, and had then, their Supplies for Manufactury from <hi>Portugal</hi> and the <hi>Eaſt Indies;</hi> but I wonder, that ſome Gentlemen ſhould ſo deſpiſe and contemn them for their fewneſs, always arguing, that they are not wor<g ref="char:EOLhyphen"/>thy of being conſidered, becauſe few, and a ſmall Intereſt, although made ſo purely by them<g ref="char:EOLhyphen"/>ſelves: I am well aſſured they are not few, as being a Monopoly or Corporation; for they are none, and their Trade is open and free to all, and were there due Encouragements for it, there is no doubt, but there would be enough of it, and why <hi>England</hi> may not have as many Su<g ref="char:EOLhyphen"/>gar-Houſes added to what now is, as there are Sugar-Houſes in <hi>Holland, Hamborough, Flan<g ref="char:EOLhyphen"/>ders,</hi> &amp;c. that depend upon the Water of our own Fountain, the Sugar of our Plantations for their Supply, I know not, and thoſe in <hi>Barbadoes</hi> added to them; the Key of this Fountain is in the Hands of our Conſervators; and who will, I doubt not, as ſoon as they ſee theſe Streams have run waſte, or upon Strangers ſo long, turn them towards the Kingdom at laſt.</p>
+            <p>The Methods, that with all Submiſſion, I would propoſe for making the Intereſts of the Kingdom and Plantations, to be Mutual and United, are,</p>
+            <p>That the Manufacturers in <hi>Barbadoes,</hi> may be obliged to Import their Sugars unmanufactu<g ref="char:EOLhyphen"/>red, as all the other Iſlands now do, <hi>viz. Jamaica, Nevis, Antegoa,</hi> St. <hi>Chriſtophers, Mon<g ref="char:EOLhyphen"/>ſerrat,</hi> and a great part of <hi>Barbadoes.</hi>
+            </p>
+            <p>By Importing their Sugars thus, they give us an intire Navigation homeward, which now is greatly leſſened; they will take away the true cauſe why this Manufacture is ſo lit<g ref="char:EOLhyphen"/>tle in the Kingdom, and wreſted from us by Strangers, and give us an opportunity by in<g ref="char:EOLhyphen"/>creaſing this Manufacture, to repleniſh the Kingdom with People in the Room of thoſe they want from us; and as by ſome neceſſary Laws to encourage it above Forreigners, this Ma<g ref="char:EOLhyphen"/>nufacture may be wholly in the Kingdom; and thereby multiply Buyers at home, which is the Intereſt of the Plantations, erect a new Navigation with Sugar Manufactured to all Parts of <hi>Europe,</hi> not only to the Eaſt Country, <hi>Spain, Italy, Turky, Flanders,</hi> where, in ſome meaſure, we once had; but even to <hi>Holland</hi> and <hi>Hamborough</hi> it ſelf, who now have both the Navigation and Manufacture of it from hence; and thus <hi>England</hi> may be made the Mart of Sugar for all <hi>Europe</hi> and it's pity that a ſmall Fly; of a Manufactury in <hi>Barbadoes,</hi> ſhould ſpoil this great Pot of ſweet Oyntment: And that I may ſhew how Practicable this is, it may not be amiſs to repreſent how uſeful this would be, by the taſtes of Exportation we have had to the places above mentioned, as I am very well informed.</p>
+            <p>The Eaſt Countrey Trade was pretty conſiderable, and to whatever Value there was of Manufactured or Refined Sugar Exported there, ſaved ſo much Silver in the Kingdom, for the Ballance of that Trade is againſt us, for we muſt have our Stores for Ships, and they
+<pb facs="tcp:175267:3"/>will have our Silver, ſince they like not our Commodities; Sugar was a Commodity they did like, but the <hi>Dutch</hi> could ſupply them Cheaper, by reaſon of the <hi>Draw-back,</hi> as al<g ref="char:EOLhyphen"/>ready mentioned.</p>
+            <p>As the Trade to the Eaſt Countrey ſaved our Silver, ſo that to <hi>Spain</hi> brought us Silver in the lieu of Sugar; and that to <hi>Turky</hi> and <hi>Italy, Silk, Grogoram Yarn, Oyls,</hi> &amp;c. Commo<g ref="char:EOLhyphen"/>dities that create and help on Manufacture in the Kingdom, which Employs many thouſands of Hands.</p>
+            <p>By the taſtes we have had of the Exportation-Trade, may be ſeen what may be done much more; I do not know, but that next to the <hi>Eaſt-India</hi> Trade and Fiſhery, this Manu<g ref="char:EOLhyphen"/>facture and Benefits ariſing from it, makes the third great Article of Trade to <hi>Holland</hi> above all other; and that they which are ſuch known Judges of Trade, ſhould ſo eſteem this, as with all their Might and Cunning, to graſp at it, ſhould quicken us, as much in our endeavours to preſerve it to our ſelves; and this may be Noted, That they do not ſuffer any Sugar to be Manufactured on their Plantations, but that it ſhall be brought home unmanufactured; and all that, is not above Ten or Twelve Sail of Ships a year.</p>
+            <p>Objection, <hi>But will not the giving over of Manufactury of Sugar at</hi> Barbadoes, <hi>give incou<g ref="char:EOLhyphen"/>ragement to the</hi> Dutch <hi>and</hi> French, <hi>&amp;c. to Manufacture theirs on their Plantations, and ſo be able to under-ſell us at Forreign Markets?</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> If the <hi>French, Dutch,</hi> or any other will be ſo Impolitick, as to Weaken and Im<g ref="char:EOLhyphen"/>poveriſh their Kingdom, and Deſtroy their Navigation, (as by ſetting up Manufactury in the Plantations they certainly muſt) I do not know why we ſhould fear that, for <hi>England</hi> will be the better able to deal with them upon any Difference; but I preſume there is no grounds for ſuch Fears; and the only Inſtance we have of ſuch a Method of Trade, is <hi>Por<g ref="char:EOLhyphen"/>tugal,</hi> whom, although they were the firſt that ſettled Sugar Plantations in <hi>Europe,</hi> have not yet grown Rich by them, neither in People nor Navigation; nor never can, in ſuch an Irre<g ref="char:EOLhyphen"/>gular Method as Manufacturing on the Plantations; Nay, they are in a manner, beat out of the Sugar Trade, and their Examples muſt be avoided, unleſs we would be content with the ſame Succeſs; but were it not thus, yet is there neither <hi>Dutch, French</hi> nor <hi>Hamburgers</hi> that have the Advantages we have of ſo many Plantations; ſhall we not be able to out-ſell the <hi>Dutch</hi> that hath but one Plantation, and the <hi>Hamburger</hi> that hath none, when we have Six Iſlands that are Sugar Plantations? Beſides, the Objection is weak, and at beſt, is but an Ar<g ref="char:EOLhyphen"/>gument of the Slothful; <hi>There is a Lyon in the way,</hi> ſays he: Such Counſellours, if they had an Intereſt in <hi>Namur</hi> laſt year, as now they have in <hi>Barbadoes,</hi> with as good grounds might have adviſed not the taking of <hi>Namur,</hi> for fear the <hi>French</hi> ſhould take it from us again; for to forbear Improving our Trade, for fear others ſhould take it from us, is giving of it, for fear we ſhould loſe it, and that when there is no danger neither.</p>
+            <p>I hope none will inſinuate, as if I deſing'd to perſuade, from laying out our Treaſure and people to all the occaſions of the Plantations; thoſe eſpecially, who have not, neither from the Motives of Profit by Manufacturing, nor by reaſon of their loſs in having their Buyers at home baulk'd, been drawn from their Duty in Importing their Sugars unmanufactured; and they are five of the ſix Iſlands, and part of the ſixth; they have done their part, and will al<g ref="char:EOLhyphen"/>ways deſerve the Care and Helps of the Kingdom whilſt they perſiſt; and it is the <hi>Barbadoes</hi> Manufactury alone, that ſpoils the Harmony in the Intereſts of Kingdom and Plantations.</p>
+            <p>It's ſo uſual in treating of a general Intereſt, to aim at a particular one; That I may poſ<g ref="char:EOLhyphen"/>ſibly have raiſed ſome Expectation of wondering what mine is, and to ſatisfie ſuch, I have on<g ref="char:EOLhyphen"/>ly this to ſay, As I have Treated of the General Diffuſive Good and Advantages of the King<g ref="char:EOLhyphen"/>dom; if that takes place, there is no good <hi>Engliſh-man</hi> but ſhares in it, either in his Eſtate, or in his Content and Satisfaction; if mine does not lie in the Kingdom's Intereſt, I am content to go without it; I have delivered nothing but what I believe to be true, and from the Im<g ref="char:EOLhyphen"/>preſſion it had upon may own Apprehenſion, it's poſſible I may have delivered matters in too concluſive a Stile; but with all Humility and Submiſſion, I deſire to preſent them to the Conſideration of the Auguſt Aſſembly of Parliament, as Humble Suggeſtions only; from which poſſibly may be gathered by Their Great Wiſdom, ſomething as a Grain of Wheat from amongſt a great deal of Chaff, that may through Improvement in Their Hands, be of uſe to the Kingdom and Plantations.</p>
+            <p>I think I can heartily ſay, That no By-Ends could have prevailed with me to give or take this trouble, but a ſincere Zeal for my Countrey, which hath a great many Doors by which goes out its Disburſements, and whilſt I did know of any ſhut againſt its Reimburſements, of this high Moment, I could not be ſilent: I am told, it's a Cauſe that wants Friends, to Re<g ref="char:EOLhyphen"/>commend it; and I did then conclude it wanted Friends, becauſe it wanted being made known: I have according to my poor Endeavours, Repreſented it as Intelligible as I could; and doubt not, but ſome Worthy Patriots will take it up and promote it, even for its own ſake, or rather for the Kingdoms ſake.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
